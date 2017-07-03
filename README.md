@@ -1,5 +1,5 @@
 # ns-snippets
-Netsuite emacs snippets 
+Netsuite emacs snippeets for yasnippet plugin
 
 ## Install
 
@@ -8,3 +8,5 @@ Netsuite emacs snippets
 then refresh snippets
 
 `M-x yas-reload-all`
+
+if using spacemacs, insert with `SPC i s`
