@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: Header Comment
+# key: nscom
+# --
+/*
+ *
+ * Version: 0.1.0
+ *
+ * Author: $0
+ *
+ */
